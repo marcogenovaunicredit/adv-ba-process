@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T11:17:32.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="-eKBAq12fW-AIpzmeCbJ" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T11:54:09.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="sK1zUaL81RLyE3l8BJzc" version="20.8.10" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="AS-IS">
-    <mxGraphModel dx="2762" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2199" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SGIsHYCIq1H-L2krvLl8-28" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="540" width="1230" height="540" as="geometry" />
+          <mxGeometry x="220" y="540" width="1240" height="550" as="geometry" />
         </mxCell>
         <mxCell id="SGIsHYCIq1H-L2krvLl8-10" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="70" width="1240" height="453.5" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="SGIsHYCIq1H-L2krvLl8-5" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.interaction;" parent="1" vertex="1">
           <mxGeometry x="520" y="419.5" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="SGIsHYCIq1H-L2krvLl8-8" value="Single Order Visualizartion" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="1" vertex="1">
+        <mxCell id="SGIsHYCIq1H-L2krvLl8-8" value="Single Order Management" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="1" vertex="1">
           <mxGeometry x="650" y="419.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="SPWOCfGQ36QJyUZVi-6S-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SGIsHYCIq1H-L2krvLl8-11" target="SGIsHYCIq1H-L2krvLl8-13" edge="1">
@@ -269,7 +269,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SPWOCfGQ36QJyUZVi-6S-28" value="SOAP&lt;br&gt;Client" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.component;" parent="1" vertex="1">
-          <mxGeometry x="680" y="810" width="70" height="120" as="geometry" />
+          <mxGeometry x="670" y="810" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SPWOCfGQ36QJyUZVi-6S-29" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SPWOCfGQ36QJyUZVi-6S-28" target="SPWOCfGQ36QJyUZVi-6S-10" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -281,6 +281,75 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="800" y="790" as="sourcePoint" />
             <mxPoint x="960" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-1" value="MIF - MIFID TOOL" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="1200.46" y="880" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-3" value="U4R - UniReport" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="980" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-4" value="AFA - Customer Information" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="1200.46" y="777.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-5" value="SOAP&lt;br&gt;Client" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.component;align=right;" vertex="1" parent="1">
+          <mxGeometry x="800" y="793" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-6" value="SOAP&lt;br&gt;Client" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.component;align=right;" vertex="1" parent="1">
+          <mxGeometry x="800" y="880" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-7" value="Rest&lt;br&gt;Client" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.component;align=right;" vertex="1" parent="1">
+          <mxGeometry x="800" y="980" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-8" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SGIsHYCIq1H-L2krvLl8-22" target="DJSupEEaHKFITjo2DMIx-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="735" y="761" as="sourcePoint" />
+            <mxPoint x="733.75" y="819.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-9" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SGIsHYCIq1H-L2krvLl8-22" target="DJSupEEaHKFITjo2DMIx-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="772.5" y="761" as="sourcePoint" />
+            <mxPoint x="810" y="822.5000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-10" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SGIsHYCIq1H-L2krvLl8-22" target="DJSupEEaHKFITjo2DMIx-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="782.5" y="771" as="sourcePoint" />
+            <mxPoint x="820" y="832.5000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-11" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.interface;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1130.46" y="805.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-12" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.interface;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1130.46" y="895" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-13" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.interface;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1130.46" y="992.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-14" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DJSupEEaHKFITjo2DMIx-5" target="DJSupEEaHKFITjo2DMIx-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="680" y="880.1176470588236" as="sourcePoint" />
+            <mxPoint x="490" y="880.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-15" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DJSupEEaHKFITjo2DMIx-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="890" y="917.44" as="sourcePoint" />
+            <mxPoint x="1130" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJSupEEaHKFITjo2DMIx-16" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="879.54" y="1009.94" as="sourcePoint" />
+            <mxPoint x="1130.0000000000005" y="1009.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
