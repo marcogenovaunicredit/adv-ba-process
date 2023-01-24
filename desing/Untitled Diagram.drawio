@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T14:02:41.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="D_2a2SJ6im9iNH0cZk6s" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T14:05:35.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="_gbmHiyT6GsArSkdXVpq" version="20.8.10" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="AS-IS">
     <mxGraphModel dx="2199" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SGIsHYCIq1H-L2krvLl8-28" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="540" width="1240" height="550" as="geometry" />
+          <mxGeometry x="220" y="540" width="1240" height="530" as="geometry" />
         </mxCell>
         <mxCell id="SGIsHYCIq1H-L2krvLl8-10" value="" style="shape=folder;spacingTop=10;tabWidth=100;tabHeight=25;tabPosition=left;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="50" width="1240" height="473.5" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="650" y="676" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="SGIsHYCIq1H-L2krvLl8-23" value="GEOS - Order Manager" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" parent="1" vertex="1">
-          <mxGeometry x="1200.46" y="676" width="150" height="75" as="geometry" />
+          <mxGeometry x="1200.46" y="676" width="150" height="54" as="geometry" />
         </mxCell>
         <mxCell id="SGIsHYCIq1H-L2krvLl8-25" value="assignment" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SGIsHYCIq1H-L2krvLl8-2" target="SGIsHYCIq1H-L2krvLl8-21" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -284,13 +284,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DJSupEEaHKFITjo2DMIx-1" value="MIF - MIFID TOOL" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="1200.46" y="880" width="150" height="75" as="geometry" />
+          <mxGeometry x="1200.46" y="890" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="DJSupEEaHKFITjo2DMIx-3" value="U4R - UniReport" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="980" width="150" height="75" as="geometry" />
+          <mxGeometry x="1200.46" y="990" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DJSupEEaHKFITjo2DMIx-4" value="AFA - Customer Information" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="1200.46" y="777.5" width="150" height="75" as="geometry" />
+          <mxGeometry x="1200.46" y="777.5" width="150" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="DJSupEEaHKFITjo2DMIx-5" value="SOAP&lt;br&gt;Client" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.component;align=right;" vertex="1" parent="1">
           <mxGeometry x="800" y="793" width="80" height="60" as="geometry" />
